@@ -1,0 +1,10 @@
+Instlar con :
+    ( 
+      pacman -S  
+          xterm
+          feh 
+          mesa vulkan-intel vulkan-icd-loader mesa-utils xorg xorg-server
+          pulseaudio
+          pavucontrol
+    )
+
