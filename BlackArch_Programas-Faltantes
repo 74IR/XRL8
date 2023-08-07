@@ -8,3 +8,6 @@ Instlar con :
           pavucontrol
     )
 
+Editar zona Horaria :
+            " sudo timedatactl set-timezone America/Lima "
+
