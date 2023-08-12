@@ -8,6 +8,7 @@ Instlar con :
           pavucontrol
     )
 
-Editar zona Horaria :
+Configuracion de la  zona Horaria :
             " sudo timedatactl set-timezone America/Lima "
-
+Activar la sincronizacion: 
+            " timedatectl set-ntp on "
