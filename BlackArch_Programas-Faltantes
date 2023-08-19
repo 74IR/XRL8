@@ -9,9 +9,9 @@ Instlar con :
     )
 
 Configuracion de la  zona Horaria :
-            " sudo timedatactl set-timezone America/Lima "
+            " sudo timedatectl set-timezone America/Lima "
 Activar la sincronizacion: 
-            " timedatectl set-ntp on "
+            " sudo timedatectl set-ntp on "
 
 
 Activar el Internet de BlackArch: 
