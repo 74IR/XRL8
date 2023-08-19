@@ -1,0 +1,3 @@
+locate>  sudo pacman -S locate  
+         sudo updatedb
+
